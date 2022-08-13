@@ -1,81 +1,81 @@
 id	description	en	local
 		New Game	Neues Spiel
-		Waiting for server...	Waiting for server...
-		Joined	Joined
-		There are ### players connected	There are ### players connected
-		Player Joined	Player Joined
-		### has joined the game	### has joined the game
-		Player Disconnected	Player Disconnected
-		### has left the game	### has left the game
-		SET ROGUE MODE SAVE	SET ROGUE MODE SAVE
-		SERVER SLOWDOWN	SERVER SLOWDOWN
-		### is slowing the game.	### is slowing the game.
-		Error connecting to server:	Error connecting to server:
-		Connecting to server...	Connecting to server...
-		Joining game...	Joining game...
-		NEW GAME	NEW GAME
-		LOAD GAME	LOAD GAME
-		NEW MULTIPLAYER GAME	NEW MULTIPLAYER GAME
-		LOAD MULTIPLAYER GAME	LOAD MULTIPLAYER GAME
-		Invalid password	Invalid password
-		Incompatible game version	Incompatible game version
+		Waiting for server...	Warte auf Server...
+		Joined	Verbunden
+		There are ### players connected	Es sind ### Spieler verbunden
+		Player Joined	Spieler verbunden
+		### has joined the game	### ist dem Spiel beigetreten
+		Player Disconnected	Spieler getrennt
+		### has left the game	### hat das Spiel verlassen
+		SET ROGUE MODE SAVE	SCHURKENMODUS SPEICHERN
+		SERVER SLOWDOWN	SERVER-VERLANGSAMUNG
+		### is slowing the game.	### verlangsamt das Spiel.
+		Error connecting to server:	Fehler beim Verbinden zum Server:
+		Connecting to server...	Verbinde zum Server...
+		Joining game...	Spiel beitreten...
+		NEW GAME	Neues Spiel
+		LOAD GAME	Spiel Laden
+		NEW MULTIPLAYER GAME	Neues Multiplayer Spiel
+		LOAD MULTIPLAYER GAME	Lade Multiplayer Spiel
+		Invalid password	Falsches Passwort
+		Incompatible game version	Inkompatible Spielversion
 		server version	server version
-		Server is full	Server is full
-		Server is not open to multiplayer	Server is not open to multiplayer
-		You are not whitelisted on this server	You are not whitelisted on this server
-		You are missing a required DLC	You are missing a required DLC
-		You are banned from this server	You are banned from this server
-		no errors detected	no errors detected
-		Variables	Variables
-		Input 1	Input 1
-		Input 2	Input 2
-		Input 3	Input 3
-		Input 4	Input 4
-		Input 5	Input 5
-		Input 6	Input 6
-		Input 7	Input 7
-		Input 8	Input 8
-		Constants	Constants
-		Operators	Operators
+		Server is full	Server ist voll
+		Server is not open to multiplayer	Server ist nicht für Multiplayer geöffnet
+		You are not whitelisted on this server	Sie sind nicht auf der Whitelist dieses Servers
+		You are missing a required DLC	Ihnen fehlt ein erforderlicher DLC
+		You are banned from this server	Sie sind von diesem Server verbannt
+		no errors detected	keine Fehler festgestellt
+		Variables	Variablen
+		Input 1	Eingabe 1
+		Input 2	Eingabe 2
+		Input 3	Eingang 3
+		Input 4	Eingang 4
+		Input 5	Eingang 5
+		Input 6	Eingang 6
+		Input 7	Eingang 7
+		Input 8	Eingang 8
+		Constants	Konstanten
+		Operators	Operatoren
 		Addition	Addition
-		Subtraction	Subtraction
-		Multiply	Multiply
-		Divide	Divide
+		Subtraction	Subtraktion
+		Multiply	Multiplizieren
+		Divide	Dividieren
 		Modulo (fmod)	Modulo (fmod)
-		Power	Power
-		Trigonometry (radians)	Trigonometry (radians)
-		Sine	Sine
-		Cosine	Cosine
-		Tangent	Tangent
-		Arcsine	Arcsine
-		Arccosine	Arccosine
-		Arctangent	Arctangent
+		Power	Potenz
+		Trigonometry (radians)	Trigonometrie (Bogenmaß)
+		Sine	Sinus
+		Cosine	Kosinus
+		Tangent	Tangens
+		Arcsine	Arkussinus
+		Arccosine	Arkosinus
+		Arctangent	Arkustangens
 		Atan2	Atan2
-		Max of x and y	Max of x and y
-		Min of x and y	Min of x and y
-		Ceil x	Ceil x
+		Max of x and y	Max von x und y
+		Min of x and y	Min von x und y
+		Ceil x	Höchstwert x
 		Floor x	Floor x
-		Round x to nearest y	Round x to nearest y
-		Absolute value of x	Absolute value of x
-		Sign of x (1 if x=0)	Sign of x (1 if x=0)
-		Square root of x	Square root of x
-		Length of vector(x,y)	Length of vector(x,y)
-		len(x,y) (no sqrt)	len(x,y) (no sqrt)
-		Linearly interpolate x to y by z	Linearly interpolate x to y by z
-		Clamp x within y and z	Clamp x within y and z
-		Conversions	Conversions
-		m/s to kmph	m/s to kmph
-		m/s to mph	m/s to mph
-		m/s to knots	m/s to knots
-		Turns to radians	Turns to radians
-		Degrees to radians	Degrees to radians
-		Radians to degrees	Radians to degrees
-		True	True
-		False	False
-		And	And
-		Or	Or
-		Xor	Xor
-		Not	Not
+		Round x to nearest y	Rundung von x auf das nächste y
+		Absolute value of x	Absoluter Wert von x
+		Sign of x (1 if x=0)	Vorzeichen von x (1, wenn x=0)
+		Square root of x	Quadratwurzel von x
+		Length of vector(x,y)	Länge des Vektors (x,y)
+		len(x,y) (no sqrt)	len(x,y) (kein sqrt)
+		Linearly interpolate x to y by z	Lineare Interpolation von x nach y durch z
+		Clamp x within y and z	Klammer x innerhalb von y und z
+		Conversions	Umrechnungen
+		m/s to kmph	m/s in kmph
+		m/s to mph	m/s in mph
+		m/s to knots	m/s in Knoten
+		Turns to radians	Umdrehungen in Bogenmaß
+		Degrees to radians	Grad in Bogenmaß
+		Radians to degrees	Radiant in Grad
+		True	Wahr
+		False	Falsch
+		And	Und
+		Or	Oder
+		Xor	Xoder
+		Not	Nicht
 		Click on the 'Logic' button in the top bar to enter logic connecting mode.	Click on the 'Logic' button in the top bar to enter logic connecting mode.
 		Select the 'Data' logic type to view 'On/Off' and 'Number' logic nodes.	Select the 'Data' logic type to view 'On/Off' and 'Number' logic nodes.
 		Select the 'Power' logic type to view 'Power' logic nodes.	Select the 'Power' logic type to view 'Power' logic nodes.
@@ -487,89 +487,89 @@ id	description	en	local
 		degrees	degrees
 		First Person Vehicle	First Person Vehicle
 		Third Person	Third Person
-		Windowed	Windowed
-		Fullscreen	Fullscreen
-		None	None
+		Windowed	Fenster
+		Fullscreen	Vollbild
+		None	Aus
 		FXAA	FXAA
 		TAA	TAA
-		Disabled	Disabled
-		Enabled	Enabled
-		Low	Low
-		Medium	Medium
-		High	High
+		Disabled	Aus
+		Enabled	An
+		Low	Niedrig
+		Medium	Mittel
+		High	Hoch
 		Ultra	Ultra
 		AUDIO	AUDIO
-		VOLUME	VOLUME
-		Master	Master
+		VOLUME	LAUTSTÄRKE
+		Master	Gesammtlautstärke
 		Sounds	Sounds
-		Environment	Environment
-		Music	Music
-		CONTROLS	CONTROLS
-		MOUSE	MOUSE
+		Environment	Umgebung
+		Music	Musik
+		CONTROLS	STEUERUNG
+		MOUSE	MAUS
 		Invert Y	Invert Y
 		Invert X	Invert X
-		Sensitivity	Sensitivity
-		Aspect	Aspect
-		Smoothing	Smoothing
-		Vehicle Camera Mode	Vehicle Camera Mode
-		Fixed Yaw	Fixed Yaw
-		Fixed	Fixed
-		Free	Free
-		GENERAL	GENERAL
+		Sensitivity	Empfindlichkeit
+		Aspect	Bildausschnitt
+		Smoothing	Glättung
+		Vehicle Camera Mode	Fahrzeug-Kameramodus
+		Fixed Yaw	Fixierte Gieren
+		Fixed	Fixiert
+		Free	Frei
+		GENERAL	ALLGEMEINES
 		HUD	HUD
-		Objectives	Objectives
-		Clock	Clock
+		Objectives	Zielsetzungen
+		Clock	Uhr
 		Minimap	Minimap
-		Player Names	Player Names
-		New Chat Messages	New Chat Messages
-		Keybind Hints	Keybind Hints
-		Tooltip Detail	Tooltip Detail
-		Show	Show
-		Hide	Hide
-		Graphics	Graphics
+		Player Names	Spieler Namen
+		New Chat Messages	Neue Chat Nachrichten
+		Keybind Hints	Tasten Hinweise
+		Tooltip Detail	QuickInfo Einzelheiten
+		Show	anzeigen
+		Hide	Ausblenden
+		Graphics	Grafiken
 		Audio	Audio
-		Controls	Controls
-		General	General
-		Language	Language
-		AVAILABLE LANGUAGES	AVAILABLE LANGUAGES
-		LANGUAGE	LANGUAGE
-		Language settings can only be changed from the main menu.	Language settings can only be changed from the main menu.
-		New Translation	New Translation
-		NEW TRANSLATION	NEW TRANSLATION
-		Language name	Language name
-		One or more translations are incomplete	One or more translations are incomplete
-		Official	Official
+		Controls	Steuerelemente
+		General	Allgemein
+		Language	Sprache
+		AVAILABLE LANGUAGES	VERFÜGBAR SPRACHEN
+		LANGUAGE	SPRACHE
+		Language settings can only be changed from the main menu.	Die Spracheinstellungen können nur über das Hauptmenü geändert werden.
+		New Translation	Neue Übersetzung
+		NEW TRANSLATION	NEU TRANSLATION
+		Language name	Sprache Name
+		One or more translations are incomplete	Eine oder mehrere Übersetzungen sind unvollständig
+		Official	Offiziell
 		Workshop	Workshop
-		CHANGE LANGUAGE	CHANGE LANGUAGE
-		UPLOAD TRANSLATION	UPLOAD TRANSLATION
-		UPDATE TRANSLATION	UPDATE TRANSLATION
-		Upload Translation	Upload Translation
-		Update Translation	Update Translation
-		Are you sure you want to upload this translation to the Steam Workshop?	Are you sure you want to upload this translation to the Steam Workshop?
-		Are you sure you want to update this translation on the Steam Workshop?\n\nAny players who have subscribed to your translation will receive your changes.	Are you sure you want to update this translation on the Steam Workshop?\n\nAny players who have subscribed to your translation will receive your changes.
-		You must provide a full translation in order to upload to the Steam workshop.	You must provide a full translation in order to upload to the Steam workshop.
-		Are you sure you want to change your selected language? This may take a few seconds.	Are you sure you want to change your selected language? This may take a few seconds.
-		(settings must be saved for some changes to take effect)	(settings must be saved for some changes to take effect)
-		Your translation has failed to upload to the Steam workshop.	Your translation has failed to upload to the Steam workshop.
-		Your translation was successfully uploaded to the Steam workshop.	Your translation was successfully uploaded to the Steam workshop.
-		TRANSLATION UPLOAD COMPLETE	TRANSLATION UPLOAD COMPLETE
-		Back	Back
-		Apply/Save	Apply/Save
-		Reset	Reset
-		RESET TO DEFAULTS	RESET TO DEFAULTS
-		Are you sure you want to reset to defaults?	Are you sure you want to reset to defaults?
-		CLEAR BINDING	CLEAR BINDING
-		Are you sure you want to clear this binding?	Are you sure you want to clear this binding?
-		The resolution in the persistent graphics settings is not available. Defaulting to the current resolution.	The resolution in the persistent graphics settings is not available. Defaulting to the current resolution.
-		Are you sure you want to clear the binding for ###?	Are you sure you want to clear the binding for ###?
-		Are you sure you want to reset your graphics settings to their defaults?	Are you sure you want to reset your graphics settings to their defaults?
-		Are you sure you want to reset your audio settings to their defaults?	Are you sure you want to reset your audio settings to their defaults?
-		Are you sure you want to reset your controls settings to their defaults?	Are you sure you want to reset your controls settings to their defaults?
-		Are you sure you want to reset your general settings to their defaults?	Are you sure you want to reset your general settings to their defaults?
-		Are you sure you want to reset your language settings to their defaults? This may take a few seconds.	Are you sure you want to reset your language settings to their defaults? This may take a few seconds.
-		Report a Bug	Report a Bug
-		Report Bug / Request Feature	Report Bug / Request Feature
-		Join us on Discord	Join us on Discord
+		CHANGE LANGUAGE	SPRACHE ÄNDERN
+		UPLOAD TRANSLATION	ÜBERSETZUNG HOCHLADEN
+		UPDATE TRANSLATION	ÜBERSETZUNG AKTUALISIEREN
+		Upload Translation	Übersetzung hochladen
+		Update Translation	Aktualisiere Übersetzung
+		Are you sure you want to upload this translation to the Steam Workshop?	Bist du sicher, dass du diese Übersetzung in den Steam Workshop hochladen möchtest?
+		Are you sure you want to update this translation on the Steam Workshop?\n\nAny players who have subscribed to your translation will receive your changes.	Bist du sicher, dass du diese Übersetzung im Steam Workshop aktualisieren möchtest? Alle Spieler, die deine Übersetzung abonniert haben, erhalten deine Änderungen.
+		You must provide a full translation in order to upload to the Steam workshop.	Für den Upload in den Steam-Workshop müssen Sie eine vollständige Übersetzung vorlegen.
+		Are you sure you want to change your selected language? This may take a few seconds.	Sind Sie sicher, dass Sie Ihre gewählte Sprache ändern möchten? Dies kann ein paar Sekunden dauern.
+		(settings must be saved for some changes to take effect)	(Einstellungen müssen gespeichert werden, damit einige Änderungen wirksam werden)
+		Your translation has failed to upload to the Steam workshop.	Deine Übersetzung konnte nicht in den Steam-Workshop hochgeladen werden.
+		Your translation was successfully uploaded to the Steam workshop.	Deine Übersetzung wurde erfolgreich in den Steam-Workshop hochgeladen.
+		TRANSLATION UPLOAD COMPLETE	HOCHLADEN DER ÜBERSETZUNG ABGESCHLOSSEN
+		Back	Zurück
+		Apply/Save	Anwenden/Speichern
+		Reset	Zurücksetzen
+		RESET TO DEFAULTS	AUF STANDARDWERTE ZURÜCKSETZEN
+		Are you sure you want to reset to defaults?	Sind Sie sicher, dass Sie auf die Standardeinstellungen zurücksetzen wollen?
+		CLEAR BINDING	BINDUNG LÖSCHEN
+		Are you sure you want to clear this binding?	ASind Sie sicher, dass Sie diese Belegung aufheben wollen?
+		The resolution in the persistent graphics settings is not available. Defaulting to the current resolution.	Die Auflösung in den dauerhaften Grafikeinstellungen ist nicht verfügbar. Standardmäßig wird die aktuelle Auflösung verwendet.
+		Are you sure you want to clear the binding for ###?	Sind Sie sicher, dass Sie die Belegung für ### aufheben wollen?
+		Are you sure you want to reset your graphics settings to their defaults?	Sind Sie sicher, dass Sie Ihre Grafikeinstellungen auf die Standardwerte zurücksetzen wollen?
+		Are you sure you want to reset your audio settings to their defaults?	Sind Sie sicher, dass Sie Ihre Audioeinstellungen auf die Standardwerte zurücksetzen wollen?
+		Are you sure you want to reset your controls settings to their defaults?	Sind Sie sicher, dass Sie Ihre Steuerungen auf die Standardeinstellungen zurücksetzen wollen?
+		Are you sure you want to reset your general settings to their defaults?	Sind Sie sicher, dass Sie Ihre allgemeinen Einstellungen auf die Standardwerte zurücksetzen wollen?
+		Are you sure you want to reset your language settings to their defaults? This may take a few seconds.	Sind Sie sicher, dass Sie Ihre Spracheinstellungen auf die Standardwerte zurücksetzen wollen? Dies kann ein paar Sekunden dauern.
+		Report a Bug	Melde einen Bug
+		Report Bug / Request Feature	Melde Bug / Fordere Feature
+		Join us on Discord	Besuche uns auf Discord
 		Steam Workshop	Steam Workshop
 		Video Tutorials	Video Tutorials
 		Continue	Fortsetzen
@@ -578,72 +578,72 @@ id	description	en	local
 		Benchmark	Benchmark
 		Settings	Optionen
 		Quit	Beenden
-		Stormworks' multiplayer is currently in an early alpha stage of testing. It will contain bugs and is not yet feature complete.	Stormworks' multiplayer is currently in an early alpha stage of testing. It will contain bugs and is not yet feature complete.
+		Stormworks' multiplayer is currently in an early alpha stage of testing. It will contain bugs and is not yet feature complete.	Der Mehrspielermodus von Stormworks befindet sich derzeit in einem frühen Alphastadium des Tests. Er wird Bugs enthalten und ist noch nicht vollständig.
 		Server Name	Server Name
-		Join	Join
+		Join	Beitreten
 		Internet	Internet
-		Join another player's server. Games hosted by your Steam friends are listed below. You can also join a Steam friend by clicking them in your friends list and choosing 'Join Game'.	Join another player's server. Games hosted by your Steam friends are listed below. You can also join a Steam friend by clicking them in your friends list and choosing 'Join Game'.
-		Join a Dedicated server run through Steam. Dedicated servers found by Valve's API will show up here.	Join a Dedicated server run through Steam. Dedicated servers found by Valve's API will show up here.
-		Friends	Friends
-		Refresh List	Refresh List
-		Host a server that your Steam friends can join. Up to 32 friends will be able to join you.	Host a server that your Steam friends can join. Up to 32 friends will be able to join you.
-		Requires Password	Requires Password
-		Password	Password
-		Max Players	Max Players
+		Join another player's server. Games hosted by your Steam friends are listed below. You can also join a Steam friend by clicking them in your friends list and choosing 'Join Game'.	Tritt dem Server eines anderen Spielers bei. Spiele, die von deinen Steam-Freunden gehostet werden, sind unten aufgeführt. Du kannst auch einem Steam-Freund beitreten, indem du ihn in deiner Freundesliste anklickst und "Spiel beitreten" wählst.
+		Join a Dedicated server run through Steam. Dedicated servers found by Valve's API will show up here.	Treten Sie einem über Steam betriebenen Dedicated Server bei. Dedizierte Server, die über die API von Valve gefunden wurden, werden hier angezeigt.
+		Friends	Freunde
+		Refresh List	Aktualisieren
+		Host a server that your Steam friends can join. Up to 32 friends will be able to join you.	Hosten Sie einen Server, dem Ihre Steam-Freunde beitreten können. Bis zu 32 Freunde können sich Ihnen anschließen.
+		Requires Password	Passwort erforderlich
+		Password	Passwort
+		Max Players	Max Spieler
 		Host	Host
-		Submit	Submit
-		CHOOSE BASE	CHOOSE BASE
-		DELETE SAVE	DELETE SAVE
+		Submit	Senden
+		CHOOSE BASE	BASIS WÄHLEN
+		DELETE SAVE	LÖSCHEN SPEICHERN
 		Are you sure you want to delete this game?	Are you sure you want to delete this game?
-		COMPONENT STOCK	COMPONENT STOCK
-		CASH REWARD	CASH REWARD
-		RESEARCH POINTS	RESEARCH POINTS
-		Mission Failed	Mission Failed
-		Mission Complete	Mission Complete
-		Remove Mission	Remove Mission
-		Toggle Active	Toggle Active
+		COMPONENT STOCK	KOMPONENTENBESTAND
+		CASH REWARD	BARE BELOHNUNG
+		RESEARCH POINTS	FORSCHUNGSPUNKTE
+		Mission Failed	Mission gescheitert
+		Mission Complete	Auftrag abgeschlossen
+		Remove Mission	Mission entfernen
+		Toggle Active	Aktiv umschalten
 		MISSIONS	MISSIONS
-		Mission Selector	Mission Selector
-		No missions	No missions
-		Official	Official
-		Saved	Saved
-		Workshop	Workshop
-		Your saved addons.	Your saved addons.
-		Addons you've subscribed to on the Steam Workshop.	Addons you've subscribed to on the Steam Workshop.
-		Official addons created by the Stormworks Devs.	Official addons created by the Stormworks Devs.
-		no objectives	no objectives
-		1 objective	1 objective
-		requirements	requirements
-		UPLOAD NEW ADDON	UPLOAD NEW ADDON
-		Share your addon with other players on the Steam Workshop.	Share your addon with other players on the Steam Workshop.
+		Mission Selector	Missionsauswahl
+		No missions	Keine Missionen
+		Official	Offiziell
+		Saved	Gespeicherte
+		Workshop	Werkstatt
+		Your saved addons.	Deine gespeicherten Addons.
+		Addons you've subscribed to on the Steam Workshop.	Addons, die du im Steam Workshop abonniert hast.
+		Official addons created by the Stormworks Devs.	Offizielle Addons, die von den Stormworks-Entwicklern erstellt wurden.
+		no objectives	keine Ziele
+		1 objective	1 Ziel
+		requirements	Anforderungen
+		UPLOAD NEW ADDON	NEUES ADDON HOCHLADEN
+		Share your addon with other players on the Steam Workshop.	Teile dein Addon mit anderen Spielern im Steam Workshop.
 		Addon	Addon
-		Addon Name	Addon Name
-		Test Location	Test Location
-		Enabled Addons	Enabled Addons
-		Edit Addon Lua	Edit Addon Lua
-		Toggle All	Toggle All
-		OVERWRITE EXISTING ADDON	OVERWRITE EXISTING ADDON
-		Overwrite your addon and publish your changes to the Steam Workshop.	Overwrite your addon and publish your changes to the Steam Workshop.
+		Addon Name	Addon-Name
+		Test Location	Test-Speicherort
+		Enabled Addons	Aktivierte Addons
+		Edit Addon Lua	Addon Lua bearbeiten
+		Toggle All	Alle umschalten
+		OVERWRITE EXISTING ADDON	VORHANDENES ADDON ÜBERSCHREIBEN
+		Overwrite your addon and publish your changes to the Steam Workshop.	Überschreibe dein Addon und veröffentliche deine Änderungen im Steam Workshop.
 		Loading...	Loading...
-		EXIT	Beenden
+		EXIT	BEENDEN
 		Exit the editor.	Den Editor beenden.
 		NEW	NEW
-		Create a new addon.	Create a new addon.
+		Create a new addon.	Erstellen Sie ein neues Addon.
 		LOAD	LOAD
-		Load a saved addon.	Load a saved addon.
-		SAVE	SAVE
-		Save the currently edited addon.	Save the currently edited addon.
-		ADDON OVERVIEW	ADDON OVERVIEW
-		View the currently edited addon.	View the currently edited addon.
-		LOCATION EDITOR	LOCATION EDITOR
-		Edit the current addon's locations.	Edit the current addon's locations.
-		View the currently edited addon.	View the currently edited addon.
-		ADD CHARACTER	ADD CHARACTER
-		You can customise outfits and whether this character is a survivor or NPC in the properties window. Survivors will follow you and can be picked up, but NPCs can not be interacted with.	You can customise outfits and whether this character is a survivor or NPC in the properties window. Survivors will follow you and can be picked up, but NPCs can not be interacted with.
-		ADD OBJECT	ADD OBJECT
-		Objects can be picked up, thrown and moved around by the player. They can be used for delivery missions or just as decoration. You can customise the object type in the properties window.	Objects can be picked up, thrown and moved around by the player. They can be used for delivery missions or just as decoration. You can customise the object type in the properties window.
-		ADD ZONE	ADD ZONE
-		ADD ZONE	ADD ZONE
+		Load a saved addon.	Laden eines gespeicherten Addons.
+		SAVE	SPEICHERN
+		Save the currently edited addon.	Speichern Sie das aktuell bearbeitete Addon.
+		ADDON OVERVIEW	ADDON ÜBERBLICK
+		View the currently edited addon.	Zeigt das aktuell bearbeitete Addon an.
+		LOCATION EDITOR	STANDORT-EDITOR
+		Edit the current addon's locations.	Bearbeiten Sie die Standorte des aktuellen Addons.
+		View the currently edited addon.	Betrachten Sie das aktuell bearbeitete Addon.
+		ADD CHARACTER	CHARAKTER HINZUFÜGEN
+		You can customise outfits and whether this character is a survivor or NPC in the properties window. Survivors will follow you and can be picked up, but NPCs can not be interacted with.	Im Eigenschaftsfenster können Sie das Outfit anpassen und festlegen, ob es sich um einen Überlebenden oder einen NSC handelt. Überlebende folgen Ihnen und können aufgesammelt werden, aber mit NSCs kann man nicht interagieren.
+		ADD OBJECT	OBJEKT HINZUFÜGEN
+		Objects can be picked up, thrown and moved around by the player. They can be used for delivery missions or just as decoration. You can customise the object type in the properties window.	Objekte können vom Spieler aufgenommen, geworfen und bewegt werden. Sie können für Liefermissionen oder einfach als Dekoration verwendet werden. Sie können den Objekttyp im Eigenschaftsfenster anpassen.
+		ADD ZONE	ZONE HINZUFÜGEN
+		ADD ZONE	ZONE HINZUFÜGEN
 		Zones can be used to set up advanced mission behaviour at specific world locations with addon Lua. These zones can be accessed globally by any addon script with functions getZones() and isInZone().	Zones can be used to set up advanced mission behaviour at specific world locations with addon Lua. These zones can be accessed globally by any addon script with functions getZones() and isInZone().
 		Zones are used to specify a location, these zones are local to a addon and can be accessed like any other local component through getLocationObjectData(). Mission Zones are generally more appropriate for constructing procedural style missions.	Zones are used to specify a location, these zones are local to a addon and can be accessed like any other local component through getLocationObjectData(). Mission Zones are generally more appropriate for constructing procedural style missions.
 		ADD VEHICLE	ADD VEHICLE
